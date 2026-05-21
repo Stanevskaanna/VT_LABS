@@ -282,7 +282,7 @@ namespace LAB06
         {
             if (newInput)
             {
-                currentInput = "0.";
+                currentInput = "0,";
                 newInput = false;
             }
             else if (!currentInput.Contains("."))

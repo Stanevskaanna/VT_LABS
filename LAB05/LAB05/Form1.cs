@@ -86,6 +86,8 @@ namespace LAB05
             textBox2.Text = string.Empty;
             label4.Text = "0";
         }
+
+       
     }
 }
 

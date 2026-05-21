@@ -8,3 +8,4 @@ D:\VT_LABS\LAB05\LAB05\obj\Debug\LAB05.csproj.GenerateResource.cache
 D:\VT_LABS\LAB05\LAB05\obj\Debug\LAB05.csproj.CoreCompileInputs.cache
 D:\VT_LABS\LAB05\LAB05\obj\Debug\LAB05.exe
 D:\VT_LABS\LAB05\LAB05\obj\Debug\LAB05.pdb
+D:\VT_LABS\LAB05\LAB05\obj\Debug\LAB05.exe.config
